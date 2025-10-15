@@ -1,0 +1,1 @@
+# appsscirpt-redirect
